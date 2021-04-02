@@ -1,0 +1,22 @@
+{
+  "name": "sensor",
+  "version": "1.0.0",
+  "description": "An awesome study of motion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sensor",
+    "PIR",
+    "raspberry",
+    "pi",
+    "motion"
+  ],
+  "author": "Matthew Williams",
+  "license": "ISC",
+  "dependencies": {
+    "pir": "^0.2.0",
+    "tessel": "^0.3.25"
+  }
+}
