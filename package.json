@@ -16,6 +16,7 @@
   "author": "Matthew Williams",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "pir": "^0.2.0",
     "tessel": "^0.3.25"
   }
